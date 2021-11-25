@@ -1,0 +1,6 @@
+Algorithm 
+ 1.start
+ 2.Read principle interest,Rate and Time
+ 3.Calculate interest using formula 
+ 4.print simple interest 
+ 5.stop
